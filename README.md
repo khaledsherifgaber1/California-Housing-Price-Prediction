@@ -2,7 +2,7 @@
 This project aims to predict housing prices in California using machine learning models and data from the 1990 California census. The project covers the full machine learning pipeline, including data preprocessing, feature engineering, handling skewness, and evaluating models.
 
 # Project Workflow:
-<img src="Cream Green Pink Flow Chart Graph.png" alt="Description" width="300">
+<img src="Cream Green Pink Flow Chart Graph.png" alt="Description" >
 ## Data Preprocessing:
 
 * Handled missing values and outliers.
